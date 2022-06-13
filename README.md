@@ -4,4 +4,4 @@ You can Open GUI in Designe Studio. All file find in QML flolder. You need comme
 Source Cpp is in SRC folder.<br />
 GUI is connected with code in one file qml/imports/Onlygui5/Values.qml. Source code is connected in src/ValuesC.cpp<br /><br />
 Youtube video:
-<a href="[url](https://youtu.be/q7WirHvrDQo)">program</a>
+<a href="https://youtu.be/q7WirHvrDQo">program</a>
